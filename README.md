@@ -62,17 +62,6 @@ mdx = { version = "0.5.0", features = ["rust-icu"] }
 mdx = { version = "0.5.0", features = ["icu", "rust-icu"] }
 ```
 
-
-
-## 📚 Documentation
-
-- [**ICU Collation Support**](ICU_COLLATION_SUPPORT.md) - Comprehensive guide for Unicode collation, BCP-47 locales, and supported features
-- [MDX v3 Format Specification](mdx_v3_format.md) - Technical details of MDX file format
-- [ZDB v2/v3 Format Specification](zdb_v2_format.md) - Technical details of ZDB database format
-- [Builder Usage Examples](BUILDER_USAGE_EXAMPLE.md) - How to use the builder API
-- [ZDB Builder Documentation](ZDB_BUILDER_DOCUMENTATION.md) - Detailed builder documentation
-
-
 ## 📜 License
 
 MDictX is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
