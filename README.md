@@ -1,4 +1,4 @@
-# MDictX - MDict Dictionary File Reader and Writer
+# LibMdx - MDict Dictionary File Reader and Writer
 
 [![Rust](https://img.shields.io/badge/Rust-2024-orange)]()
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
